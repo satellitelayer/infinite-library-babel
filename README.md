@@ -1,2 +1,2 @@
 # Principals Library
-Library for principal investors at Infinite Babel.
+A virtual library for principal investors at Infinite Babel.
