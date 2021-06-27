@@ -1,2 +1,2 @@
-# Library
-A virtual library for principal investors.
+# Virtual Library
+A virtual library for anyone working on Project Daybringer.
