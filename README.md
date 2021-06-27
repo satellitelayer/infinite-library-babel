@@ -1,2 +1,2 @@
-# Principals Library
+# Library
 A virtual library for principal investors.
